@@ -27,7 +27,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
   </div> 
 
 ## App Brainstorming (Step 4)
-
+A cool app idea that I brainstormed is FilmPulse which is meant to b a social movie recommendation platform that learns your taste through a simple swipe interface and connects you with like-minded film enthusiasts. The app analyzes your viewing history and preferences to suggest what movies you may like.  A unique "Movie Mood" feature lets you find perfect films based on your current emotional state, while integrated watch parties allow you to synchronize viewing with friends remotely. You can also look at what local theatres your favorite movies are currently playing at. 
 ## Notes
 
 I had challenges setting up the UI views such as label and button mainly because I have never worked with xcode before.
@@ -51,9 +51,6 @@ Youtube
 - Better organisation by creating clusters
 
 - Easy scrolling
-
-
-A cool app idea that I brainstormed is FilmPulse which is meant to b a social movie recommendation platform that learns your taste through a simple swipe interface and connects you with like-minded film enthusiasts. The app analyzes your viewing history and preferences to suggest what movies you may like.  A unique "Movie Mood" feature lets you find perfect films based on your current emotional state, while integrated watch parties allow you to synchronize viewing with friends remotely. You can also look at what local theatres your favorite movies are currently playing at. 
 
 ## License
 
